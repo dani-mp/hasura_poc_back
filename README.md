@@ -1,4 +1,4 @@
-# Hasura POC (Hasura engine)
+# Hasura POC (Hasura Engine)
 
 ## Getting started
 1. Install Docker locally.
